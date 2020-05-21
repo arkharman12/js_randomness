@@ -1,0 +1,78 @@
+/**********
+TITLE: Randomness
+AUTHOR: Harmanjot Singh (HS)
+PURPOSE: To style the randomness.html
+ORIGINALLY CREATED ON: 4 Feb 2019
+LAST MODIFIED ON: 4 Feb 2019
+LAST MODIFIED BY: Harmanjot Singh (HS)
+MODIFICATION HISTORY: Original Build
+**********/
+
+body {
+    background-image: url('pirateGuess.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+    background-size: cover;
+}
+
+#text {
+    background-color: rgba(2, 2, 2, 0.863);
+  
+	padding-top: 32px;
+    padding-bottom: 32px;
+    padding-right: 44px;
+    padding-left: 44px;
+	
+  	margin-top: 45px;
+    margin-bottom: 45px;
+    margin-right: 45px;
+    margin-left: 45px;  
+}
+
+#captain {
+    color: greenyellow;
+    font-family: "Lucida Console", monospace, serif, sans-serif;
+	font-size: 22px;
+
+}
+
+#captainTwo {
+    color: orange;
+    font-family: "Lucida Console", monospace, serif, sans-serif;
+	font-size: 22px;
+}
+
+#captainThree {
+    color: indianred;
+    font-family: "Lucida Console", monospace, serif, sans-serif;
+	font-size: 22px;
+}
+
+#pirate1 {
+    color: darkcyan;
+    font-family: "Lucida Console", monospace, serif, sans-serif;
+	font-size: 22px;
+}
+
+#pirate2 {
+    color: whitesmoke;
+    font-family: "Lucida Console", monospace, serif, sans-serif;
+	font-size: 22px;
+}
+
+#pirate3 {
+    color: rgb(36, 80, 201);
+    font-family: "Lucida Console", monospace, serif, sans-serif;
+	font-size: 22px;
+}
+
+a:hover {
+    background-color: #ddd;
+    color: black;
+}
+  
+.previous {
+    background-color: #f1f1f1;
+    color: black;
+}
